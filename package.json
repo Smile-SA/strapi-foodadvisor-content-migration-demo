@@ -1,0 +1,17 @@
+{
+  "name": "foodadvisor-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-content-types": "strapi-content-type-to-ts -s ../foodadvisor/api -e custom-field -o strapi-content-types.mts",
+    "migrate": "tsc && node migrate.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@smile/strapi-client": "1.0.0",
+    "@smile/strapi-content-type-to-ts": "1.0.0"
+  }
+}

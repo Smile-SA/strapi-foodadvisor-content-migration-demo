@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Epicure - Le Bristol Paris",
+    "slug": "epicure-le-bristol-paris",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/8c5df4b2-34be-4eba-bc36-e08e73665325/c171c70e-8b70-4d83-a9ed-dfe8643da943.jpg",
+    "priceRange": 451,
+    "address": {
+      "street": "112 Rue du Faubourg Saint-Honoré",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Pierre Gagnaire",
+    "slug": "pierre-gagnaire",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/cc083da2-1da4-455b-980f-a3058f9c1f23/aefd236e-18a6-40bc-9b08-4698390a5080.jpg",
+    "priceRange": 450,
+    "address": {
+      "street": "6 Rue Balzac",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Plénitude - Cheval Blanc Paris",
+    "slug": "plenitude-cheval-blanc-paris",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/29d17bf0-3fdc-4bd6-b1e7-8a89eaed753b/dae7775e-edc9-47a2-ae62-129f5558d042.jpg",
+    "priceRange": 450,
+    "address": {
+      "street": "8 quai du Louvre",
+      "postalCode": "75001",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Lasserre",
+    "slug": "lasserre",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/4324db4f-980c-4423-a90d-13281c52a709/08f2ff4f-f4e0-4bfc-ab95-f3bafd8e6c22.jpg",
+    "priceRange": 325,
+    "address": {
+      "street": "17, avenue Franklin Roosevelt",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Restaurant le Meurice Alain Ducasse",
+    "slug": "restaurant-le-meurice-alain-ducasse",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/39ebf1d7-49bd-4358-96bf-23e7bcbb263e/feb3715d-18b7-449b-ab40-3a462b514d71.jpg",
+    "priceRange": 287,
+    "address": {
+      "street": "228 Rue de Rivoli",
+      "postalCode": "75001",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Le Taillevent",
+    "slug": "le-taillevent",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/4dda0933-a2a2-412e-81a3-6b6d642cdc3a/f85514ca-bfc0-4a25-b9ed-6a1874920950.jpg",
+    "priceRange": 280,
+    "address": {
+      "street": "15 Rue Lamennais",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "L'Ecrin",
+    "slug": "l-ecrin",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/bfdf1580-9192-4bd9-b7dd-e264f6416f6a/a98e420f-7d6e-4708-b1e5-b1ba99468ec1.jpg",
+    "priceRange": 280,
+    "address": {
+      "street": "10 Place de la Concorde",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Pages",
+    "slug": "pages",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/aea08ecb-b0c2-4568-9f0d-3acfddd58014/d101c59b-8324-48a5-b0ee-2c6d5af1b430.jpg",
+    "priceRange": 265,
+    "address": {
+      "street": "4 Rue Auguste Vacquerie",
+      "postalCode": "75116",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Marsan - Hélène Darroze",
+    "slug": "marsan-helene-darroze",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/8e3f53cc-41c4-4664-abd5-c91d4b95ac9b/e7ad24aa-37bc-45a9-b791-5a4d56c32b0e.jpg",
+    "priceRange": 260,
+    "address": {
+      "street": "4 Rue d'Assas",
+      "postalCode": "75006",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Le Gabriel",
+    "slug": "le-gabriel",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/fc9ab9b8-798a-4b76-94a7-c9f5d0a16009/eda28d73-b7a8-450e-a62b-e5b924518433.jpg",
+    "priceRange": 258,
+    "address": {
+      "street": "42 Avenue Gabriel",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "L'Oiseau Blanc",
+    "slug": "l-oiseau-blanc",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/7733e606-ca2c-4b7f-a527-2af16ba5adc5/bc005b30-35b6-4c8e-807b-c99e3933e652.jpg",
+    "priceRange": 250,
+    "address": {
+      "street": "19 Avenue Kléber",
+      "postalCode": "75116",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Pur' - Jean-François Rouquette - Park Hyatt Paris-Vendôme",
+    "slug": "pur-jean-francois-rouquette-park-hyatt-paris-vendome",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/addec800-3e93-4cff-9cee-9466c66c4bb8/4a61d672-9a17-4a0d-af2b-1c5478a9550b.jpg",
+    "priceRange": 241,
+    "address": {
+      "street": "5 Rue de la Paix",
+      "postalCode": "75002",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Restaurant Le Cinq - Four Seasons Hôtel George V",
+    "slug": "restaurant-le-cinq-four-seasons-hotel-george-v",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/a92cae60-28d0-4827-a788-762a01aeb2d5/4e332a75-9d77-4f6b-99eb-b20532cf16e0.jpg",
+    "priceRange": 234,
+    "address": {
+      "street": "31, avenue George V",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Le Grand Restaurant - Jean-François Piège",
+    "slug": "le-grand-restaurant-jean-francois-piege",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/1c4f5c99-93cf-4ab2-b62a-494d44b9c220/c2325959-21f2-413e-8630-2cd1b38013a5.jpg",
+    "priceRange": 234,
+    "address": {
+      "street": "7 Rue d'Aguesseau",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Maison Rostang",
+    "slug": "maison-rostang",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/3fa791a3-b74e-42b2-83f7-e0980d1c5779/14ab63fe-48d4-4f04-9c46-420da58b8649.jpg",
+    "priceRange": 231,
+    "address": {
+      "street": "20 rue Rennequin",
+      "postalCode": "75017",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Mystery Cuisine - Édouard et Thu Ha",
+    "slug": "mystery-cuisine-edouard-et-thu-ha",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/57735e20-1e7a-44b4-8595-b6b29f627db6/a90c4379-8f61-4095-8f3c-2950363f31e9.jpg",
+    "priceRange": 229,
+    "address": {
+      "street": "37 bis, rue de Montpensier",
+      "postalCode": "75001",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "La Grande Cascade - Frédéric Robert",
+    "slug": "la-grande-cascade-frederic-robert",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/27f03599-3039-41a7-9a7e-36cb359eff77/aade8655-1779-47bc-96f5-1bd402c4597f.jpg",
+    "priceRange": 200,
+    "address": {
+      "street": "Bois de Boulogne, allée de Longchamp",
+      "postalCode": "75016",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Astrance",
+    "slug": "astrance",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/73dfa308-3a21-4d83-b64c-63b79c99e15f/6c74d5fa-5cc9-4f47-8206-c5e398f218a4.jpg",
+    "priceRange": 200,
+    "address": {
+      "street": "32 Rue de Longchamp",
+      "postalCode": "75016",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Jean Imbert au Plaza Athénée",
+    "slug": "jean-imbert-au-plaza-athenee",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/f0033909-1138-4a35-a3d3-a0624f512f45/c1e4d680-5c41-489e-b771-44d23683fd69.jpg",
+    "priceRange": 200,
+    "address": {
+      "street": "25 Av. Montaigne",
+      "postalCode": "75008",
+      "locality": "Paris",
+      "country": "France"
+    }
+  },
+  {
+    "name": "Bellefeuille",
+    "slug": "bellefeuille",
+    "mainPhotoSrc": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/eb911c32-0652-46b5-8d24-0ca212d1ada0/81f12769-c3c2-488b-9e4d-6c13b6b53abc.jpg",
+    "priceRange": 195,
+    "address": {
+      "street": "5 Pl. du Chancelier Adenauer",
+      "postalCode": "75116",
+      "locality": "Paris",
+      "country": "France"
+    }
+  }
+]
+
